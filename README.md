@@ -1,6 +1,6 @@
-🌐WEB Application 🎉
+🎯WEB Application 🌐
 
-Having the End-to-End authentication during login into the Web app.🧐
+👉Having the End-to-End authentication during login into the Web app.
 
 !!Here is the sample copy✒️
 
